@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">MnsProject</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_mns_project_main">MnsProjectMainActivity</string>
+    <string name="title_activity_mnslogin">Login</string>
+	
+    <!-- Login -->
+    <string name="login_user_hint">usuario(sin medianet2k)</string>
+    <string name="login_password_hint">contraseña</string>
+    <string name="login_btn_enter">Entrar</string>
+    <string name="login_error">Error de login</string>
+    <string name="login_action_title">Login</string>
+    <string name="login_action_text">Entrando en dedicaciones medianet&#8230;</string>
+    
+    <!-- Main -->
+    <string name="loged">Dentro!! con Id de sesión %s</string>
+    
+</resources>
