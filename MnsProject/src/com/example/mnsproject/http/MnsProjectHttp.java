@@ -28,7 +28,7 @@ public class MnsProjectHttp {
 	private static final String TAG =  MnsProjectHttp.class.toString();
 	
 	private static final String MNS_DOMAIN = "medianet2k";
-	private static final String MNS_PRINCIPAL_URL = "http://dedicaciones.medianet.es/mns.timetracking";
+	private static final String MNS_PRINCIPAL_URL = "http://dedicaciones.medianet.es/";
 	private static final String MNS_COOKIE_SESSION = "ASP.NET_SessionId";
 
 	/**
